@@ -1,2 +1,3 @@
-# proj_final_aceldev
-Projeto Final para AceleraDev em Data Science da Codenation
+# DataScience AceleraDev Codenation 2020
+
+Bootcamp de aceleração em ciência de dados
